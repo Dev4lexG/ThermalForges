@@ -1,8 +1,8 @@
-appId: 'helioslauncher'
-productName: 'Helios Launcher'
+appId: 'thermallauncher'
+productName: 'Thermal Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2024 Daniel Scalzi'
+copyright: 'Copyright © 2018-2024 Álex, Daniel Scalzi'
 
 asar: true
 compression: 'maximum'
@@ -39,10 +39,10 @@ mac:
 # Linux Configuration
 linux: 
   target: 'AppImage'
-  maintainer: 'Daniel Scalzi'
-  vendor: 'Daniel Scalzi'
-  synopsis: 'Modded Minecraft Launcher'
-  description: 'Custom launcher which allows users to join modded servers. All mods, configurations, and updates are handled automatically.'
+  maintainer: 'Álex, Daniel Scalzi'
+  vendor: 'Álex, Daniel Scalzi'
+  synopsis: 'Thermal Forges Launcher, cliente de Minecraft'
+  description: 'Un cliente de minecraft modificado para jugar en la serie Thermal Forges'
   category: 'Game'
 
 
